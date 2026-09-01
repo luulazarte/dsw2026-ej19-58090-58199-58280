@@ -12,4 +12,15 @@ nav {
     height: 30px;   
     }
 
+main {
+    border: 1px solid blue;
+    height: 100px;
+    
+}
+
+footer {
+    border: 1px solid green;
+    height: 30px;
+}
+
     
